@@ -1,5 +1,6 @@
 # Fusion
 
+**[deprecation]: this package has been moved on into alfred-py: http://github.com/jinfagang/alfred , pls head of there for more easy to use and installzatoin**
 this libarary contains some helper functions that using in robot or autonomous driving, such as:
 
 - coordinary convert between camera and lidar;
